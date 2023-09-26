@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fenomen-Alex
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Node.js and its frameworks
+- 🌱 I’m currently learning Go and its web frameworks
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me: alexfenomen@gmail.com
 
